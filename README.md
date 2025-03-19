@@ -1,16 +1,42 @@
-## Hi there 👋
+<!--  BANNER INICIAL -->
+![Banner](https://media.gifdb.com/anime-banner-gif-file-7373kb-re0bf4huk93b6ul7.gif)
 
-<!--
-**MIGHELL666/MIGHELL666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- CONTADOR DE VISITAS A LA PAGINA -->
+<h4 align="center">VISITANTES :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{MIGHELL666}/count.svg" alt=" :: Visitor's Count" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- PRESENTACION -->
+<h1 align="center">Hola 👋  soy JOSE MIGUEL 💎</h1> 
+<!-- REDES SOCIALES -->
+<p align="center">
+  <a href="https://www.instagram.com/miguelf546/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""  /></a>
+  </p>
+
+
+<!-- SOBRE MI -->
+<h1 align="center">💻Sobre Mi💻</h1> 
+<p align="left">
+🎓 Estudiante de INGENIERIA EN TECNOLOGIAS DE LA INFORMACION.
+
+💻 Soy un apasionado por la tecnología, el desarrollo web y la programación. Actualmente, estoy aprendiendo y mejorando mis habilidades.
+
+Aunque aún estoy en formación y tengo poca experiencia profesional, he trabajado en proyectos personales y académicos donde he desarrollado **sistemas funcionales, interfaces atractivas y mecánicas de juego innovadoras**. Siempre busco mejorar mis habilidades, 
+aprender nuevas tecnologías y enfrentar desafíos que me ayuden a crecer como desarrollador.
+### 🎯 Mis Objetivos  
+- 📚 Seguir aprendiendo y fortaleciendo mis conocimientos en desarrollo web y de videojuegos.  
+- 💡 Construir proyectos cada vez más complejos y pulidos.  
+- 🤝 Colaborar con otros desarrolladores y ampliar mi experiencia en equipo.  
+
+Estoy en constante aprendizaje y con muchas ganas de seguir creciendo en este mundo tecnológico. 🚀  
+</p>
+<br>
+
+
+<!-- TECNOLOGIAS CONOCIDAS-->
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,py,git,github,js,html,css,cs,mysql&perline=12" /></a>
+</p>
+<br>
