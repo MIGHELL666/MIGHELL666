@@ -1,5 +1,6 @@
 <!--  BANNER INICIAL -->
-![Banner](https://media.gifdb.com/anime-banner-gif-file-7373kb-re0bf4huk93b6ul7.gif)
+<img src="https://media1.tenor.com/m/lzHCfSah59oAAAAC/zero-no-tsukaima-saito-hiraga.gif" alt="Banner" width="503"> <img src="https://media1.tenor.com/m/eHsowtlJhaYAAAAd/highschooldxd-issei.gif" alt="Banner" width="503">
+
 
 
 <!-- CONTADOR DE VISITAS A LA PAGINA -->
