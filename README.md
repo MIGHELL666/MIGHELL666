@@ -1,5 +1,5 @@
 <!--  BANNER INICIAL -->
-<img src="https://media1.tenor.com/m/lzHCfSah59oAAAAC/zero-no-tsukaima-saito-hiraga.gif" alt="Banner" width="503"> <img src="https://media1.tenor.com/m/eHsowtlJhaYAAAAd/highschooldxd-issei.gif" alt="Banner" width="503">
+<img src="https://media1.tenor.com/m/lzHCfSah59oAAAAC/zero-no-tsukaima-saito-hiraga.gif" alt="Banner" width="400"> <img src="https://media1.tenor.com/m/eHsowtlJhaYAAAAd/highschooldxd-issei.gif" alt="Banner" width="400">
 
 
 
