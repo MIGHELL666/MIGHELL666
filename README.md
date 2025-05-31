@@ -38,6 +38,6 @@ Estoy en constante aprendizaje y con muchas ganas de seguir creciendo en este mu
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,py,git,github,js,html,css,cs,mysql,nodejs,figma,notion,visualstudio,unreal&perline=12" /></a>
+    <img src="https://skillicons.dev/icons?i=vscode,py,git,github,js,html,css,cs,mysql,nodejs,figma,notion,visualstudio,unreal,kotlin,androidstudio&perline=12" /></a>
 </p>
 <br>
