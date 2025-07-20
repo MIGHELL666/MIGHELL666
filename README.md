@@ -7,12 +7,9 @@
 <h1 align="center">Hola 👋  soy JOSE MIGUEL 💎</h1> 
 
 <!-- CONTADOR DE VISTAS -->
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=MIGHELL666.MIGHELL666&label=🔥 Visitas&countColor=ff007f&style=flat-square&labelColor=000000" alt="Contador de Visitas" />
-</p>
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=MIGHELL666.MIGHELL666&label=Visitantes&countColor=%23263759" alt="Visitas" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=MIGHELL666.MIGHELL666&label=Visitantes&countColor=%23663759" alt="Visitas" />
 </p>
 
 <!-- REDES SOCIALES -->
