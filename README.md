@@ -1,6 +1,6 @@
 <!--  BANNER INICIAL -->
 <p align="center">
-  <img src="https://giphy.com/gifs/highschool-dxd-issei-hyoudou-QEEJZOX2FOTrq" alt="Banner animado" width="800"/>
+  <img src="https://giphy.com/gifs/highschool-dxd-issei-hyoudou-QEEJZOX2FOTrq" alt="Banner animado" width="400"/>
 </p>
 
 
