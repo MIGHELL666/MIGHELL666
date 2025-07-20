@@ -1,12 +1,6 @@
 <!--  BANNER INICIAL -->
 <img src="https://media1.tenor.com/m/lzHCfSah59oAAAAC/zero-no-tsukaima-saito-hiraga.gif" alt="Banner" width="420"> <img src="https://media1.tenor.com/m/eHsowtlJhaYAAAAd/highschooldxd-issei.gif" alt="Banner" width="420">
 
-
-
-<!-- CONTADOR DE VISITAS A LA PAGINA -->
-<h4 align="center">VISITANTES :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{MIGHELL666}/count.svg" alt=" :: Visitor's Count" /></p>
-
 <!-- PRESENTACION -->
 <h1 align="center">Hola 👋  soy JOSE MIGUEL 💎</h1> 
 <!-- REDES SOCIALES -->
