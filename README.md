@@ -5,7 +5,9 @@
 <h1 align="center">Hola 👋  soy JOSE MIGUEL 💎</h1> 
 
 <!-- CONTADOR DE VISTAS -->
-![Visitas](https://api.visitorbadge.io/api/visitors?path=MIGHELL666.MIGHELL666&label=Visitantes&countColor=%23263759)
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=MIGHELL666.MIGHELL666&label=Visitantes&countColor=%23263759" alt="Visitas" />
+</p>
 
 <!-- REDES SOCIALES -->
 <p align="center">
