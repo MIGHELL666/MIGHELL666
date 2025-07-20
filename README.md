@@ -5,7 +5,7 @@
 <h1 align="center">Hola 👋  soy JOSE MIGUEL 💎</h1> 
 
 <!-- CONTADOR DE VISTAS -->
-![Visitas](https://visitor-badge.glitch.me/badge?page_id=MIGHELL666.MIGHELL666)
+![contador](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMIGHELL666%2FMIGHELL666&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visitas&edge_flat=false)
 
 <!-- REDES SOCIALES -->
 <p align="center">
