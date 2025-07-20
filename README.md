@@ -5,7 +5,7 @@
 <h1 align="center">Hola 👋  soy JOSE MIGUEL 💎</h1> 
 
 <!-- CONTADOR DE VISTAS -->
-
+![Visitas](https://visitor-badge.glitch.me/badge?page_id=MIGHELL666.MIGHELL666)
 
 <!-- REDES SOCIALES -->
 <p align="center">
