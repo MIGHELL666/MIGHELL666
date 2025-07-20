@@ -1,5 +1,7 @@
 <!--  BANNER INICIAL -->
-<img src="https://media1.tenor.com/m/lzHCfSah59oAAAAC/zero-no-tsukaima-saito-hiraga.gif" alt="Banner" width="420"> <img src="https://media1.tenor.com/m/eHsowtlJhaYAAAAd/highschooldxd-issei.gif" alt="Banner" width="420">
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMIGHELL666%2FMIGHELL666&count_bg=%23FF6C5F&title_bg=%23555555&icon=face-smile.svg&icon_color=%23FFD700&title=Visitas+al+Perfil&edge_flat=true"/>
+</p>
 
 <!-- PRESENTACION -->
 <h1 align="center">Hola 👋  soy JOSE MIGUEL 💎</h1> 
