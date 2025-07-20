@@ -8,10 +8,8 @@
 
 <!-- CONTADOR DE VISTAS -->
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MIGHELL666/MIGHELL666&count_bg=%23FF5F6D&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=VISITAS&edge_flat=false"/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=MIGHELL666.MIGHELL666&label=👁️+Visitas&countColor=ff69b4&style=plastic" />
 </p>
-
-
 
 <!-- REDES SOCIALES -->
 <p align="center">
