@@ -39,8 +39,6 @@ Estoy en constante aprendizaje y con muchas ganas de seguir creciendo en este mu
 
 
 
-<body>
-
 <?php
 
 	function get_num_visitas(){
@@ -99,6 +97,3 @@ Estoy en constante aprendizaje y con muchas ganas de seguir creciendo en este mu
 	echo imprime_visitas($contador);
 
 ?>
-
- 
-</body>
