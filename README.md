@@ -5,7 +5,6 @@
 <h1 align="center">Hola 👋  soy JOSE MIGUEL 💎</h1> 
 
 <!-- CONTADOR DE VISTAS -->
-<script src="https://gist.github.com/everaldo/8e68d143cb776f6fafa9.js"></script>
 
 
 <!-- REDES SOCIALES -->
