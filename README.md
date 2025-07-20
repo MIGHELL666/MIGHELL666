@@ -1,15 +1,12 @@
 <!--  BANNER INICIAL -->
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=MIGHELL666.MIGHELL666&label=Visitantes&countColor=%23263759" alt="Visitas" />
-</p>
+
 
 <!-- PRESENTACION -->
 <h1 align="center">Hola 👋  soy JOSE MIGUEL 💎</h1> 
 
 <!-- CONTADOR DE VISTAS -->
-
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=MIGHELL666.MIGHELL666&label=Visitantes&countColor=%f52918" alt="Visitas" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=MIGHELL666.MIGHELL666&label=Visitantes&countColor=%23263759" alt="Visitas" />
 </p>
 
 <!-- REDES SOCIALES -->
