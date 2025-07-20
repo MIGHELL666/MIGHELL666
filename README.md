@@ -1,7 +1,7 @@
 <!--  BANNER INICIAL -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/-_ocNmbypQgAAAAd/zero-no.gif" alt="GIF 1" width="400" style="margin-right: 10px;" />
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGppMzhoOWxnZnN2NGZ6aTE0eXI1OWdyZmdtNW5qdW1jYmgzeWw1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QEEJZOX2FOTrq/giphy.gif" alt="GIF 2" width="400" />
+  <img src="https://media1.tenor.com/m/-_ocNmbypQgAAAAd/zero-no.gif" alt="GIF 1" width="450" style="margin-right: 10px;" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGppMzhoOWxnZnN2NGZ6aTE0eXI1OWdyZmdtNW5qdW1jYmgzeWw1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QEEJZOX2FOTrq/giphy.gif" alt="GIF 2" width="450" />
 </p>
 
 <!-- PRESENTACION -->
