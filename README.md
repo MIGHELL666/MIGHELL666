@@ -8,7 +8,7 @@
 
 <!-- CONTADOR DE VISTAS -->
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MIGHELL666/MIGHELL666&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visitas&edge_flat=false"/>
+  <img src="https://shields.io/endpoint?url=https://count.getloli.com/get/@MIGHELL666.github.readme&style=for-the-badge&label=👁️+Visitas&color=ff69b4" />
 </p>
 
 
