@@ -3,6 +3,11 @@
 
 <!-- PRESENTACION -->
 <h1 align="center">Hola 👋  soy JOSE MIGUEL 💎</h1> 
+
+<!-- CONTADOR DE VISTAS -->
+<script src="https://gist.github.com/everaldo/8e68d143cb776f6fafa9.js"></script>
+
+
 <!-- REDES SOCIALES -->
 <p align="center">
   <a href="https://www.instagram.com/miguelf546/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""  /></a>
@@ -35,65 +40,3 @@ Estoy en constante aprendizaje y con muchas ganas de seguir creciendo en este mu
     <img src="https://skillicons.dev/icons?i=discord,vscode,py,pycharm,git,github,js,npm,html,css,cs,mysql,nodejs,figma,blender,linkedin,notion,gmail,visualstudio,unreal,kotlin,androidstudio,linux,mint,apple,windows,powershell&perline=16" /></a>
 </p>
 <br>
-
-
-
-
-<?php
-
-	function get_num_visitas(){
-		//conectar
-		$link = mysql_connect('localhost', 'root', '');
-		if (!$link) {
-			die('Não foi possível conectar: ' . mysql_error());
-		}
-		
-		mysql_select_db("contador");
-		$query = "SELECT total " .
-				 "FROM `visitas` " .
-				 "ORDER BY total ASC LIMIT 1";
-		$result = mysql_query($query);
-		if (!$result) {
-			$message  = 'Invalid query: ' . mysql_error() . "\n";
-			$message .= 'Whole query: ' . $query;
-			die($message);
-		}
-		if (mysql_num_rows($result) == 0) {
-			echo "No rows found, nothing to print so am exiting";
-			exit;
-		}
-		$row = mysql_fetch_array($result);
-		mysql_close($link);
-		return $row["total"];
-		//fazer consulta
-		//retornar total
-	}
-
-	function imprime_visitas($contador){
-		return "<h1>" . $contador . "</h1>";
-	}
-	
-	function contar_visita(){
-		//conectar
-		$link = mysql_connect('localhost', 'root', '');
-		if (!$link) {
-			die('Não foi possível conectar: ' . mysql_error());
-		}
-		
-		mysql_select_db("contador");
-		$query = "UPDATE `visitas` " .
-				 "SET total = total + 1";
-		$result = mysql_query($query);
-		if (!$result) {
-			$message  = 'Invalid query: ' . mysql_error() . "\n";
-			$message .= 'Whole query: ' . $query;
-			die($message);
-		}
-		mysql_close($link);
-	}
-
-	contar_visita();
-	$contador = get_num_visitas();
-	echo imprime_visitas($contador);
-
-?>
