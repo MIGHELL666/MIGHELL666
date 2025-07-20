@@ -7,10 +7,7 @@
 <h1 align="center">Hola 👋  soy JOSE MIGUEL 💎</h1> 
 
 <!-- CONTADOR DE VISTAS -->
-<p align="center">
-  <img src="https://shields.io/endpoint?url=https://count.getloli.com/get/@MIGHELL666.github.readme&style=for-the-badge&label=👁️+Visitas&color=ff69b4" />
-</p>
-
+![Visitas](https://api.visitorbadge.io/api/visitors?path=MIGHELL666.MIGHELL666&label=Visitantes&countColor=%23263759)
 
 <!-- REDES SOCIALES -->
 <p align="center">
