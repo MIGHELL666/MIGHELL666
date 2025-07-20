@@ -9,7 +9,7 @@
 <!-- CONTADOR DE VISTAS -->
 
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=MIGHELL666.MIGHELL666&label=Visitantes&countColor=%23663759" alt="Visitas" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=MIGHELL666.MIGHELL666&label=Visitantes&countColor=%17b9fa" alt="Visitas" />
 </p>
 
 <!-- REDES SOCIALES -->
