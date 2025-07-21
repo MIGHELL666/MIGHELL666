@@ -6,14 +6,14 @@
 
 <h1 align="center"><code>👾 INIT SYSTEM... WELCOME TO THE GRID 👾</code></h1>
 
-<h2 align="center"><code>💻 José Miguel💻</code></h2>
+<h2 align="center"><code>💻 José Miguel 💻</code></h2>
 <h3 align="center"><code>🧠 Full Stack en formación | ⚔️ Cybersecurity | 🎮 Game Dev </code></h3>
 
 ---
 
 <!-- 🧭 STATS / VISITAS -->
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=MIGHELL666.MIGHELL666&label=HACKED&countColor=%23f92672" alt="Visitas" />
+  👀<img src="https://api.visitorbadge.io/api/visitors?path=MIGHELL666.MIGHELL666&label=VISITANTES&countColor=%23f92672" alt="Visitas" />👀
 </p>
 
 <!-- 🛰️ REDES / CONTACTO -->
@@ -31,17 +31,12 @@
 
 ---
 
-## 🧬 SYSTEM.LOG :: about_me.txt
-
+## 🧬 SOBRE MI 🧬
 
 🧪 _Estudiante de Ingeniería en Tecnologías de la Información (UPGOP)_  
 💥 _Apasionado por los videojuegos, el desarrollo web, la IA visual y los sistemas ciberseguros_  
 ⚙️ _Diseñador y programador de videojuegos con Unreal Engine 5 y Blueprints_  
 📈 _Siempre aprendiendo algo nuevo: backend, redes, hacking ético y más_
-
----
-
-## 🧠 Habilidades instaladas
 
 🧩 Pensamiento crítico  
 🎯 Resolución de problemas  
@@ -52,17 +47,17 @@
 
 ---
 
-## 🧰 TECH_STACK.exe
+## 👾 TECNOLOGIAS CONOOCIDAS 👾
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,cs,cpp,java,git,github,mysql,unreal,figma,blender,firebase,vscode,visualstudio,notion,postman,kotlin,androidstudio,linux,powershell,bootstrap,tailwind,ai&perline=12" />
+    <img src="https://skillicons.dev/icons?i=discord,vscode,py,pycharm,git,github,js,npm,html,css,cs,mysql,nodejs,figma,blender,linkedin,notion,gmail,visualstudio,unreal,kotlin,androidstudio,linux,mint,apple,windows,powershell&perline=12" />
   </a>
 </p>
 
 ---
 
-## 🚧 OBJETIVOS/ROADMAP.TXT
+### 🎯 MIS OBJETIVOS 🎯  
 
 - 🧠 Dominar el desarrollo backend (APIs, bases de datos, seguridad)
 - 🎮 Publicar un videojuego indie completo
@@ -71,6 +66,4 @@
 - 🤝 Conectar y colaborar con desarrolladores del mundo
 
 ---
-
-## 💾 DOWNLOAD_ME
 
