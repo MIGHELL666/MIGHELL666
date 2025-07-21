@@ -58,16 +58,6 @@
   </a>
 </p>
 
----
-
-## 📚 Certificaciones y formación
-
-- 🛡️ Google Cybersecurity – *En curso* (Coursera + INROADS)
-- 🌐 Cisco: Network Devices & Config – *Próximamente* (Cisco Networking Academy)
-- 🎮 Desarrollo de videojuego universitario – UPGOP, 2024
-
----
-
 ## 📫 Contacto
 
 📧 josemiguelfloresdavilacv@gmail.com  
@@ -75,6 +65,3 @@
 📱 +52 871 508 5607
 
 ---
-
-> “La tecnología no se detiene… y yo tampoco.” 🚀
-
