@@ -4,10 +4,10 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGppMzhoOWxnZnN2NGZ6aTE0eXI1OWdyZmdtNW5qdW1jYmgzeWw1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QEEJZOX2FOTrq/giphy.gif" alt="GIF Cibernético" width="420" />
 </p>
 
-<h1 align="center"><code>👾 INIT SYSTEM... WELCOME TO THE GRID 👾</code></h1>
+<h2 align="center"><code>👾 BIENVENIDO 💲🟢👾</code></h2>
 
-<h2 align="center"><code>💻 José Miguel 💻</code></h2>
-<h3 align="center"><code>🧠 Full Stack en formación | ⚔️ Cybersecurity | 🎮 Game Dev </code></h3>
+<h1 align="center"><code>💻 José Miguel 💻</code></h1>
+<h2 align="center"><code>🧠 Full Stack en formación | ⚔️ Cybersecurity | 🎮 Game Dev </code></h2>
 
 ---
 
