@@ -1,46 +1,80 @@
-<!--  BANNER INICIAL -->
+<!--  BANNER ANIMADO -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/-_ocNmbypQgAAAAd/zero-no.gif" alt="GIF 1" width="420" style="margin-right: 10px;" />
+  <img src="https://media1.tenor.com/m/-_ocNmbypQgAAAAd/zero-no.gif" alt="GIF 1" width="420" />
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGppMzhoOWxnZnN2NGZ6aTE0eXI1OWdyZmdtNW5qdW1jYmgzeWw1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QEEJZOX2FOTrq/giphy.gif" alt="GIF 2" width="420" />
 </p>
 
-<!-- PRESENTACION -->
-<h1 align="center">Hola 👋  soy JOSE MIGUEL 💎</h1> 
+<!-- TÍTULO PRINCIPAL -->
+<h1 align="center">✨ Hola, soy <strong>José Miguel Flores</strong> ✨</h1>
+<h3 align="center">🎮 Full Stack en formación | Desarrollador de videojuegos | Apasionado por la tecnología</h3>
 
-<!-- CONTADOR DE VISTAS -->
+<!-- CONTADOR DE VISITAS -->
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=MIGHELL666.MIGHELL666&label=Visitantes&countColor=%23263759" alt="Visitas" />
 </p>
 
 <!-- REDES SOCIALES -->
 <p align="center">
-  <a href="https://www.instagram.com/miguelf546/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""  /></a>
-  </p>
-
-
-<!-- SOBRE MI -->
-<h1 align="center">💻Sobre Mi💻</h1> 
-<p align="left">
-🎓 Estudiante de INGENIERIA EN TECNOLOGIAS DE LA INFORMACION.
-
-💻 Soy un apasionado por la tecnología, el desarrollo web y la programación. Actualmente, estoy aprendiendo y mejorando mis habilidades.
-
-Aunque aún estoy en formación y tengo poca experiencia profesional, he trabajado en proyectos personales y académicos donde he desarrollado **sistemas funcionales, interfaces atractivas y mecánicas de juego innovadoras**. Siempre busco mejorar mis habilidades, 
-aprender nuevas tecnologías y enfrentar desafíos que me ayuden a crecer como desarrollador.
-### 🎯 Mis Objetivos  
-- 📚 Seguir aprendiendo y fortaleciendo mis conocimientos en desarrollo web y de videojuegos.  
-- 💡 Construir proyectos cada vez más complejos y pulidos.  
-- 🤝 Colaborar con otros desarrolladores y ampliar mi experiencia en equipo.  
-
-Estoy en constante aprendizaje y con muchas ganas de seguir creciendo en este mundo tecnológico. 🚀  
+  <a href="https://github.com/MIGHELL666" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.instagram.com/miguelf546/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
-<br>
 
+---
 
-<!-- TECNOLOGIAS CONOCIDAS-->
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+## 💡 Sobre mí
+
+🎓 Estudiante de **Ingeniería en Tecnologías de la Información** en la Universidad Politécnica de Gómez Palacio (UPGOP).  
+🚀 Apasionado por el desarrollo web, los videojuegos y la innovación tecnológica.  
+🧠 Con habilidades en aprendizaje autónomo, pensamiento crítico y trabajo en equipo.  
+🕹️ Actualmente participé en el desarrollo de un videojuego universitario con **Unreal Engine 5**, integrando lógica interactiva y diseño gráfico con IA.
+
+---
+
+## 🧩 Conocimientos técnicos
+
+- 🔹 **Desarrollo web** (HTML, CSS, JS, Node.js)
+- 🔹 **Desarrollo de videojuegos** (Unreal Engine 5, Blueprints)
+- 🔹 **Bases de datos** (MySQL)
+- 🔹 **Control de versiones** (Git, GitHub)
+- 🔹 **Ciberseguridad** (Curso Google en progreso)
+- 🔹 **Edición gráfica con IA** (Diseño de interfaces, menús, mockups)
+
+---
+
+## 🎯 Objetivos
+
+- 📚 Seguir aprendiendo y certificándome en áreas clave como ciberseguridad y redes.  
+- 🛠️ Crear proyectos funcionales, bien diseñados y con buenas prácticas.  
+- 🤝 Colaborar con desarrolladores y participar en proyectos reales o open source.  
+- 🎮 Desarrollar videojuegos completos que mezclen narrativa, mecánicas creativas e inmersión.
+
+---
+
+## 🛠️ Tecnologías que uso
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,vscode,py,pycharm,git,github,js,npm,html,css,cs,mysql,nodejs,figma,blender,linkedin,notion,gmail,visualstudio,unreal,kotlin,androidstudio,linux,mint,apple,windows,powershell&perline=16" /></a>
+    <img src="https://skillicons.dev/icons?i=discord,vscode,py,pycharm,git,github,js,npm,html,css,cs,mysql,nodejs,figma,blender,linkedin,notion,gmail,visualstudio,unreal,kotlin,androidstudio,linux,mint,apple,windows,powershell&perline=16" />
+  </a>
 </p>
-<br>
+
+---
+
+## 📚 Certificaciones y formación
+
+- 🛡️ Google Cybersecurity – *En curso* (Coursera + INROADS)
+- 🌐 Cisco: Network Devices & Config – *Próximamente* (Cisco Networking Academy)
+- 🎮 Desarrollo de videojuego universitario – UPGOP, 2024
+
+---
+
+## 📫 Contacto
+
+📧 josemiguelfloresdavilacv@gmail.com  
+📍 Gómez Palacio, México  
+📱 +52 871 508 5607
+
+---
+
+> “La tecnología no se detiene… y yo tampoco.” 🚀
+
