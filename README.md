@@ -6,8 +6,8 @@
 
 <h1 align="center"><code>👾 INIT SYSTEM... WELCOME TO THE GRID 👾</code></h1>
 
-<h2 align="center"><code>💻 José Miguel Flores 💻</code></h2>
-<h3 align="center"><code>🧠 Full Stack en formación | ⚔️ Cybersecurity | 🎮 Game Dev | 🤖 AI Designer</code></h3>
+<h2 align="center"><code>💻 José Miguel💻</code></h2>
+<h3 align="center"><code>🧠 Full Stack en formación | ⚔️ Cybersecurity | 🎮 Game Dev </code></h3>
 
 ---
 
@@ -24,7 +24,7 @@
   <a href="https://www.instagram.com/miguelf546/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-D6336C?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/josemiguel-flores/" target="_blank">
+  <a href="https://www.linkedin.com/in/jos%C3%A9-miguel-flores-d%C3%A1vila-ba1a72370/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -32,4 +32,45 @@
 ---
 
 ## 🧬 SYSTEM.LOG :: about_me.txt
+
+
+🧪 _Estudiante de Ingeniería en Tecnologías de la Información (UPGOP)_  
+💥 _Apasionado por los videojuegos, el desarrollo web, la IA visual y los sistemas ciberseguros_  
+⚙️ _Diseñador y programador de videojuegos con Unreal Engine 5 y Blueprints_  
+📈 _Siempre aprendiendo algo nuevo: backend, redes, hacking ético y más_
+
+---
+
+## 🧠 Habilidades instaladas
+
+🧩 Pensamiento crítico  
+🎯 Resolución de problemas  
+💬 Comunicación efectiva  
+🕹️ Diseño de mecánicas interactivas  
+⏱️ Gestión del tiempo  
+👾 Curiosidad tecnológica
+
+---
+
+## 🧰 TECH_STACK.exe
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,py,cs,cpp,java,git,github,mysql,unreal,figma,blender,firebase,vscode,visualstudio,notion,postman,kotlin,androidstudio,linux,powershell,bootstrap,tailwind,ai&perline=12" />
+  </a>
+</p>
+
+---
+
+## 🚧 OBJETIVOS/ROADMAP.TXT
+
+- 🧠 Dominar el desarrollo backend (APIs, bases de datos, seguridad)
+- 🎮 Publicar un videojuego indie completo
+- 🔓 Participar en retos de CTF y hackathons
+- 🌐 Crear plataformas web dinámicas y con impacto real
+- 🤝 Conectar y colaborar con desarrolladores del mundo
+
+---
+
+## 💾 DOWNLOAD_ME
 
