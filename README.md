@@ -39,41 +39,43 @@
 </p>
 
 ---
+ ## 🧬 SOBRE MÍ
 
-## 🧬 SOBRE MÍ 🧬
+> 🎓 **Estudiante de Ingeniería en Tecnologías de la Información**  
+> 📍 *Universidad Politécnica de Gómez Palacio (UPGOP)*
+
+---
+
+### 🌟 ¿Quién soy?
+
+👋 ¡Hola! Soy un entusiasta de la tecnología con gran pasión por los **videojuegos**, la **IA visual**, el **desarrollo web**, y los **sistemas ciberseguros**. Me encanta aprender, crear y mejorar todo lo que toco.
+
+---
+
+### 💻 Tecnologías y Enfoques
+
+- ⚙️ **Desarrollo de videojuegos** con *Unreal Engine 5* y *Blueprints*  
+- 🧠 **Backend**, **redes**, **hacking ético** e **inteligencia artificial**  
+- 🌐 Explorando nuevas formas de integrar diseño + código + seguridad  
+
+---
+
+### 🚀 Habilidades Clave
+
+| 💡 Habilidad                     | 📌 Descripción                         |
+|-------------------------------|--------------------------------------|
+| 🎯 Resolución de Problemas     | Analizo y actúo con lógica y creatividad |
+| 🧩 Pensamiento Crítico          | Siempre cuestiono y optimizo procesos |
+| 💬 Comunicación Efectiva       | Expreso ideas de forma clara y directa |
+| 🕹️ Diseño Interactivo           | Creo mecánicas intuitivas y divertidas |
+| ⏱️ Gestión del Tiempo          | Me organizo con enfoque y disciplina  |
+| 👾 Curiosidad Tecnológica       | Nunca paro de investigar y aprender   |
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&height=80&lines=🎮      +Apasionado+por+los+videojuegos+y+la+IA+visual;💻+Desarrollador+web+y+de+videojuegos;🔐+Enfocado+en+la+ciberseguridad+y+el+backend" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coder GIF"/>
 </p>
-
----
-
-🎓 **Estudiante de Ingeniería en Tecnologías de la Información**  
-👨‍💻 **Universidad Politécnica de Gómez Palacio (UPGOP)**  
-
-🔧 **Diseñador y programador de videojuegos**  
-🎮 *Experiencia con Unreal Engine 5 y Blueprints*  
-
-🧠 **Siempre aprendiendo algo nuevo**  
-📚 *Backend · Redes · Hacking Ético · Inteligencia Artificial*
-
----
-
-### 🧩 HABILIDADES DESTACADAS
-
-- 🎯 **Resolución de Problemas**
-- 🧩 **Pensamiento Crítico**
-- 💬 **Comunicación Efectiva**
-- ⏱️ **Gestión del Tiempo**
-- 🕹️ **Diseño de Mecánicas Interactivas**
-- 👾 **Curiosidad Tecnológica Infinita**
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWFpazB2dGhrdTZjNWxxanJraHd6MGoydTFkdGxxd3JtdDYxZWdlNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/giphy.gif" width="300"/>
-</p>
-
 
 ---
 
