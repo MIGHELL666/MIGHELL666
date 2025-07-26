@@ -59,10 +59,11 @@
 
 ### 🎯 MIS OBJETIVOS 🎯  
 
-  *🧠 Dominar el desarrollo backend (APIs, bases de datos, seguridad)
+- 🧠 Dominar el desarrollo backend (APIs, bases de datos, seguridad)
 - 🎮 Publicar un videojuego indie completo
 - 🔓 Participar en retos de CTF y hackathons
 - 🌐 Crear plataformas web dinámicas y con impacto real
 - 🤝 Conectar y colaborar con desarrolladores del mundo
 
 ---
+
