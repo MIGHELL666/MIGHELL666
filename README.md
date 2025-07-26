@@ -40,19 +40,49 @@
 
 ---
 
-## 🧬 SOBRE MI 🧬
-
-🧪 _Estudiante de Ingeniería en Tecnologías de la Información (UPGOP)_  
-💥 _Apasionado por los videojuegos, el desarrollo web, la IA visual y los sistemas ciberseguros_  
-⚙️ _Diseñador y programador de videojuegos con Unreal Engine 5 y Blueprints_  
-📈 _Siempre aprendiendo algo nuevo: backend, redes, hacking ético y más_
-
-🧩 Pensamiento crítico  
-🎯 Resolución de problemas  
-💬 Comunicación efectiva  
-🕹️ Diseño de mecánicas interactivas  
-⏱️ Gestión del tiempo  
-👾 Curiosidad tecnológica
+<div align="center">
+  <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGppMzhoOWxnZnN2NGZ6aTE0eXI1OWdyZmdtNW5qdW1jYmgzeWw1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QEEJZOX2FOTrq/giphy.gif" width="40"> **SOBRE MI** <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGppMzhoOWxnZnN2NGZ6aTE0eXI1OWdyZmdtNW5qdW1jYmgzeWw1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QEEJZOX2FOTrq/giphy.gif" width="40"></h2>
+  <br>
+  <div style="background-color: #1A0033; padding: 20px; border-radius: 15px; box-shadow: 0 0 25px rgba(0, 255, 255, 0.5), 0 0 50px rgba(255, 0, 255, 0.3);">
+    <h3 align="left" style="color: #00FFFF;"><img src="https://media.giphy.com/media/3o7aCSPYf242222222/giphy.gif" width="25"> **MIS PASIONES Y EXPERIENCIA**</h3>
+    <ul align="left" style="list-style-type: none; padding: 0;">
+      <li style="margin-bottom: 10px;">
+        <span style="font-size: 1.2em;">🧪</span> <span style="color: #FFFFFF;">_Estudiante de Ingeniería en Tecnologías de la Información (<strong style="color: #FFFF00;">UPGOP</strong>)_</span>
+      </li>
+      <li style="margin-bottom: 10px;">
+        <span style="font-size: 1.2em;">💥</span> <span style="color: #FFFFFF;">_Apasionado por los <strong style="color: #00FFFF;">videojuegos</strong>, el <strong style="color: #FFFF00;">desarrollo web</strong>, la <strong style="color: #FF00FF;">IA visual</strong> y los <strong style="color: #00FF00;">sistemas ciberseguros</strong>_</span>
+      </li>
+      <li style="margin-bottom: 10px;">
+        <span style="font-size: 1.2em;">⚙️</span> <span style="color: #FFFFFF;">_Diseñador y programador de videojuegos con <strong style="color: #00FFFF;">Unreal Engine 5</strong> y <strong style="color: #FF00FF;">Blueprints</strong>_</span>
+      </li>
+      <li style="margin-bottom: 10px;">
+        <span style="font-size: 1.2em;">📈</span> <span style="color: #FFFFFF;">_Siempre aprendiendo algo nuevo: <strong style="color: #FFFF00;">backend</strong>, <strong style="color: #00FFFF;">redes</strong>, <strong style="color: #FF00FF;">hacking ético</strong> y más_</span>
+      </li>
+    </ul>
+    <br>
+    <h3 align="left" style="color: #FF00FF;"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="25"> **HABILIDADES BLANDAS**</h3>
+    <ul align="left" style="list-style-type: none; padding: 0;">
+      <li style="margin-bottom: 10px;">
+        <span style="font-size: 1.2em;">🧩</span> <span style="color: #FFFFFF;">**Pensamiento crítico**</span>
+      </li>
+      <li style="margin-bottom: 10px;">
+        <span style="font-size: 1.2em;">🎯</span> <span style="color: #FFFFFF;">**Resolución de problemas**</span>
+      </li>
+      <li style="margin-bottom: 10px;">
+        <span style="font-size: 1.2em;">💬</span> <span style="color: #FFFFFF;">**Comunicación efectiva**</span>
+      </li>
+      <li style="margin-bottom: 10px;">
+        <span style="font-size: 1.2em;">🕹️</span> <span style="color: #FFFFFF;">**Diseño de mecánicas interactivas**</span>
+      </li>
+      <li style="margin-bottom: 10px;">
+        <span style="font-size: 1.2em;">⏱️</span> <span style="color: #FFFFFF;">**Gestión del tiempo**</span>
+      </li>
+      <li style="margin-bottom: 10px;">
+        <span style="font-size: 1.2em;">👾</span> <span style="color: #FFFFFF;">**Curiosidad tecnológica**</span>
+      </li>
+    </ul>
+  </div>
+</div>
 
 ---
 
