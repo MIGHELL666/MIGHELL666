@@ -1,3 +1,9 @@
+<!-- HEADER DECORATIVO CON GRADIENTE MÁS VIBRANTE -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00FFFF,FF00FF,FFFF00,00FF00&height=120&section=header"/>
+</div>
+
+
 <!-- 🔥 BANNER NEÓN -->
 <p align="center">
   <img src="https://media1.tenor.com/m/-_ocNmbypQgAAAAd/zero-no.gif" alt="GIF Hacker" width="420" />
@@ -41,28 +47,25 @@
 ---
 ## 🧬 SOBRE MÍ
 
-> 🎓 **Estudiante de Ingeniería en Tecnologías de la Información**
+> 🎓 **Estudiante de Ingeniería en Tecnologías de la Información**  
 > 📍 *Universidad Politécnica de Gómez Palacio (UPGOP)*
-> 🧪 _Estudiante de Ingeniería en Tecnologías de la Información (UPGOP)_  
-> 💥 _Apasionado por los videojuegos, el desarrollo web, la IA visual y los sistemas ciberseguros_  
-> ⚙️ _Diseñador y programador de videojuegos con Unreal Engine 5 y Blueprints_  
-> 📈 _Siempre aprendiendo algo nuevo: backend, redes, hacking ético y más_
-
-### 💻 Tecnologías y Enfoques
-
-- ⚙️ **Desarrollo de videojuegos** con *Unreal Engine 5* y *Blueprints*  
-- 🧠 **Backend**, **redes**, **hacking ético** e **inteligencia artificial**  
-- 🌐 Explorando nuevas formas de integrar diseño + código + seguridad  
 
 ---
 
-### 🚀 HABILIDADES CLAVE
+### 💻 Tecnologías y Enfoques
 
-| 💡 Habilidad               | 📌 Descripción corta                         | 💡 Habilidad              | 📌 Descripción corta                         |
-|---------------------------|---------------------------------------------|---------------------------|---------------------------------------------|
-| 🎯 Resolución de Problemas | Analizo y actúo con lógica y creatividad     | 🧩 Pensamiento Crítico     | Siempre cuestiono y optimizo procesos       |
-| 💬 Comunicación Efectiva   | Expreso ideas de forma clara y directa       | 🕹️ Diseño Interactivo       | Creo mecánicas intuitivas y divertidas      |
-| ⏱️ Gestión del Tiempo      | Me organizo con enfoque y disciplina         | 👾 Curiosidad Tecnológica  | Nunca paro de investigar y aprender         |
+>- ⚙️ **Desarrollo de videojuegos** con *Unreal Engine 5* y *Blueprints*  
+>- 🧠 **Backend**, **redes**, **hacking ético** e **inteligencia artificial**  
+>- 🌐 Explorando nuevas formas de integrar diseño + código + seguridad  
+
+---
+
+### 🚀 HABILIDADES BLANDAS
+
+| 🎯 Resolución de Problemas | 🧩 Pensamiento Crítico | 💬 Comunicación Efectiva |
+|---------------------------|------------------------|--------------------------|
+| 🕹️ Diseño Interactivo      | ⏱️ Gestión del Tiempo   | 👾 Curiosidad Tecnológica |
+
 ---
 
 ## <div align="center">👾 **TECNOLOGIAS CONOCIDAS** 👾</div>
@@ -79,13 +82,20 @@
 
 ---
 
-### 🎯 MIS OBJETIVOS 🎯  
+### 🎯 MIS OBJETIVOS
 
-- 🧠 Dominar el desarrollo backend (APIs, bases de datos, seguridad)
-- 🎮 Publicar un videojuego indie completo
-- 🔓 Participar en retos de CTF y hackathons
-- 🌐 Crear plataformas web dinámicas y con impacto real
-- 🤝 Conectar y colaborar con desarrolladores del mundo
+🚀 Mis metas personales y profesionales que me impulsan día a día:
+
+- 🧠 **Dominar el desarrollo backend:** APIs, bases de datos y seguridad  
+- 🎮 **Publicar un videojuego indie completo**  
+- 🔓 **Participar en retos CTF y hackathons**  
+- 🌐 **Crear plataformas web dinámicas y con impacto real**  
+- 🤝 **Conectar y colaborar con desarrolladores de todo el mundo**
 
 ---
 
+<!-- FOOTER DECORATIVO CON GRADIENTE MÁS VIBRANTE -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00FFFF,FF00FF,FFFF00,00FF00&height=120&section=footer"/>
+  <h3>⭐ ¡Tu apoyo me impulsa a seguir creando! ⭐</h3>
+</div>
