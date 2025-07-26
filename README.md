@@ -21,7 +21,7 @@
 
 <!-- 🧭 STATS / VISITAS MEJORADOS 🧭 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MIGHELL666&label=VISITANTES&color=06FFFF&style=for-the-badge" alt="Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=MIGHELL666&label=VISITANTES&color=06F0FF&style=for-the-badge" alt="Visitas" />
   <img src="https://img.shields.io/github/followers/MIGHELL666?label=SEGUIDORES&style=for-the-badge&color=F600FF" alt="Followers" />
 </p>
 
