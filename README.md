@@ -25,14 +25,14 @@
   <img src="https://img.shields.io/github/followers/MIGHELL666?label=SEGUIDORES&style=for-the-badge&color=FF00FF" alt="Followers" />
 </p>
 
-<!-- 🛰️ REDES / CONTACTO -->
+<!-- 🛰️ REDES / CONTACTO CON BADGES MODERNOS 🛰️ -->
 <p align="center">
   <a href="https://github.com/MIGHELL666" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=1A1A2E" />
+  </a>&nbsp&nbsp
   <a href="https://www.instagram.com/miguelf546/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-D6336C?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>&nbsp&nbsp
   <a href="https://www.linkedin.com/in/jos%C3%A9-miguel-flores-d%C3%A1vila-ba1a72370/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
