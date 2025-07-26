@@ -11,9 +11,9 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=40&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=💻+JOSÉ+MIGUEL+💻" alt="Typing SVG - José Miguel" />
 </h1>
-<h2 align="center">
+<h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=FF00FF&center=true&vCenter=true&width=800&lines=🧠+Full+Stack+en+formación+|+⚔️+Cybersecurity+|+🎮+Game+Dev" alt="Typing SVG - Roles" />
-</h2>
+</h3>
 
 </div>
 
