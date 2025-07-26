@@ -9,10 +9,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=400&lines=👾+BIENVENIDO+👾" alt="Typing SVG - Bienvenido" />
 </h2>
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=40&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=💻+JOSÉ+MIGUEL+💻" alt="Typing SVG - José Miguel" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=40&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=💻+JOSÉ+MIGUEL+💻" alt="Typing SVG - José Miguel" />
 </h1>
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=🧠+Full+Stack+en+formación+|+⚔️+Cybersecurity+|+🎮+Game+Dev" alt="Typing SVG - Roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=🧠+Full+Stack+en+formación+|+⚔️+Cybersecurity+|+🎮+Game+Dev" alt="Typing SVG - Roles" />
 </h2>
 
 </div>
@@ -21,8 +21,8 @@
 
 <!-- 🧭 STATS / VISITAS MEJORADOS 🧭 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MIGHELL666&label=VISITANTES&color=00FFFF&style=for-the-badge" alt="Visitas" />
-  <img src="https://img.shields.io/github/followers/MIGHELL666?label=SEGUIDORES&style=for-the-badge&color=FF00FF" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=MIGHELL666&label=VISITANTES&color=06FFFF&style=for-the-badge" alt="Visitas" />
+  <img src="https://img.shields.io/github/followers/MIGHELL666?label=SEGUIDORES&style=for-the-badge&color=F600FF" alt="Followers" />
 </p>
 
 <!-- 🛰️ REDES / CONTACTO CON BADGES MODERNOS 🛰️ -->
