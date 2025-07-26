@@ -39,18 +39,14 @@
 </p>
 
 ---
- ## 🧬 SOBRE MÍ
+## 🧬 SOBRE MÍ
 
-> 🎓 **Estudiante de Ingeniería en Tecnologías de la Información**  
+> 🎓 **Estudiante de Ingeniería en Tecnologías de la Información**
 > 📍 *Universidad Politécnica de Gómez Palacio (UPGOP)*
-
----
-
-### 🌟 ¿Quién soy?
-
-👋 ¡Hola! Soy un entusiasta de la tecnología con gran pasión por los **videojuegos**, la **IA visual**, el **desarrollo web**, y los **sistemas ciberseguros**. Me encanta aprender, crear y mejorar todo lo que toco.
-
----
+> 🧪 _Estudiante de Ingeniería en Tecnologías de la Información (UPGOP)_  
+> 💥 _Apasionado por los videojuegos, el desarrollo web, la IA visual y los sistemas ciberseguros_  
+> ⚙️ _Diseñador y programador de videojuegos con Unreal Engine 5 y Blueprints_  
+> 📈 _Siempre aprendiendo algo nuevo: backend, redes, hacking ético y más_
 
 ### 💻 Tecnologías y Enfoques
 
@@ -60,23 +56,13 @@
 
 ---
 
-### 🚀 Habilidades Clave
+### 🚀 HABILIDADES CLAVE
 
-| 💡 Habilidad                     | 📌 Descripción                         |
-|-------------------------------|--------------------------------------|
-| 🎯 Resolución de Problemas     | Analizo y actúo con lógica y creatividad |
-| 🧩 Pensamiento Crítico          | Siempre cuestiono y optimizo procesos |
-| 💬 Comunicación Efectiva       | Expreso ideas de forma clara y directa |
-| 🕹️ Diseño Interactivo           | Creo mecánicas intuitivas y divertidas |
-| ⏱️ Gestión del Tiempo          | Me organizo con enfoque y disciplina  |
-| 👾 Curiosidad Tecnológica       | Nunca paro de investigar y aprender   |
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coder GIF"/>
-</p>
-
+| 💡 Habilidad               | 📌 Descripción corta                         | 💡 Habilidad              | 📌 Descripción corta                         |
+|---------------------------|---------------------------------------------|---------------------------|---------------------------------------------|
+| 🎯 Resolución de Problemas | Analizo y actúo con lógica y creatividad     | 🧩 Pensamiento Crítico     | Siempre cuestiono y optimizo procesos       |
+| 💬 Comunicación Efectiva   | Expreso ideas de forma clara y directa       | 🕹️ Diseño Interactivo       | Creo mecánicas intuitivas y divertidas      |
+| ⏱️ Gestión del Tiempo      | Me organizo con enfoque y disciplina         | 👾 Curiosidad Tecnológica  | Nunca paro de investigar y aprender         |
 ---
 
 ## <div align="center">👾 **TECNOLOGIAS CONOCIDAS** 👾</div>
