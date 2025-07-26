@@ -56,12 +56,16 @@
 
 ---
 
-## 👾 TECNOLOGIAS CONOOCIDAS 👾
-
+## <div align="center">👾 **TECNOLOGIAS CONOCIDAS** 👾</div>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,vscode,py,pycharm,git,github,js,npm,html,css,cs,mysql,nodejs,figma,blender,linkedin,notion,gmail,visualstudio,unreal,kotlin,androidstudio,linux,mint,apple,windows,powershell,firebase,tailwind,react&perline=15" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=discord,vscode,py,pycharm,git,github,js,npm,html,css,cs,mysql,nodejs,figma,blender,linkedin,notion,gmail,visualstudio,unreal,kotlin,androidstudio,linux,mint,apple,windows,powershell,firebase,tailwind,react&perline=15&theme=dark" />
+</p>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20JavaScript-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Python-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Game%20Dev-Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mobile-Kotlin%20%7C%20Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </p>
 
 ---
