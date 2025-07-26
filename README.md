@@ -3,25 +3,19 @@
   <img src="https://media1.tenor.com/m/-_ocNmbypQgAAAAd/zero-no.gif" alt="GIF Hacker" width="420" />
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGppMzhoOWxnZnN2NGZ6aTE0eXI1OWdyZmdtNW5qdW1jYmgzeWw1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QEEJZOX2FOTrq/giphy.gif" alt="GIF Cibernético" width="420" />
 </p>
+
+---
+
 <!-- TÍTULO PRINCIPAL CON EFECTOS DE ESCRITURA Y COLORES VIBRANTES -->
 <h2 align="center">
-  <code>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=400&lines=👾+BIENVENIDO+👾" alt="Typing
-        SVG - Bienvenido" />
-  </code>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=400&lines=👾+BIENVENIDO+👾" alt="Typing SVG - Bienvenido" />
 </h2>
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=40&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=💻+JOSÉ+MIGUEL+💻" alt="Typing SVG - José Miguel" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=40&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=💻+JOSÉ+MIGUEL+💻" alt="Typing SVG - José Miguel" />
 </h1>
-
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=🧠+Full+Stack+en+formación+|+⚔️+Cybersecurity+|+🎮+Game+Dev" alt="Typing SVG - Roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=FF00FF&center=true&vCenter=true&width=1000&lines=🧠+Full+Stack+en+formación+|+⚔️+Cybersecurity+|+🎮+Game+Dev" alt="Typing SVG - Roles" />
 </h2>
-
-<h2 align="center"><code>👾      🟢BIENVENIDO🟢      👾</code></h2>
-<h1 align="center"><code>💻 José Miguel 💻</code></h1>
-<h2 align="center"><code>🧠 Full Stack en formación | ⚔️ Cybersecurity | 🎮 Game Dev </code></h2>
 
 ---
 
