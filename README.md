@@ -62,10 +62,12 @@
 
 ### 🚀 HABILIDADES BLANDAS
 
-| 📚 Aprendizaje autónomo | 🔄 Adaptabilidad       | 🧠 Pensamiento crítico   | 🛠️ Resolución de problemas |
-| 💬 Comunicación efectiva | ⏱️ Gestión del tiempo  | ✅ Responsabilidad        | 🤖 Curiosidad tecnológica   |
-| 😤 Tolerancia a la frustración | 🤝 Trabajo en equipo | 🎯 Autodisciplina      | 👂 Escucha activa           |
-| 💪 Autoconfianza         | 🔍 Observación analítica | 📈 Mejora continua    | 🌀 Flexibilidad mental      |
+| 📚 Aprendizaje autónomo     | 🔄 Adaptabilidad         | 🧠 Pensamiento crítico     | 🛠️ Resolución de problemas |
+|----------------------------|--------------------------|----------------------------|-----------------------------|
+| 💬 Comunicación efectiva   | ⏱️ Gestión del tiempo    | ✅ Responsabilidad          | 🤖 Curiosidad tecnológica   |
+| 😤 Tolerancia a la frustración | 🤝 Trabajo en equipo    | 🎯 Autodisciplina           | 👂 Escucha activa           |
+| 💪 Autoconfianza           | 🔍 Observación analítica | 📈 Mejora continua          | 🌀 Flexibilidad mental       |
+
 
 
 ---
