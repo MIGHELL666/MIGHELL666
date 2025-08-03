@@ -62,9 +62,11 @@
 
 ### 🚀 HABILIDADES BLANDAS
 
-| 🎯 Resolución de Problemas | 🧩 Pensamiento Crítico | 💬 Comunicación Efectiva |
-|---------------------------|------------------------|--------------------------|
-| 🕹️ Diseño Interactivo      | ⏱️ Gestión del Tiempo   | 👾 Curiosidad Tecnológica |
+| 📚 Aprendizaje autónomo | 🔄 Adaptabilidad       | 🧠 Pensamiento crítico   | 🛠️ Resolución de problemas |
+| 💬 Comunicación efectiva | ⏱️ Gestión del tiempo  | ✅ Responsabilidad        | 🤖 Curiosidad tecnológica   |
+| 😤 Tolerancia a la frustración | 🤝 Trabajo en equipo | 🎯 Autodisciplina      | 👂 Escucha activa           |
+| 💪 Autoconfianza         | 🔍 Observación analítica | 📈 Mejora continua    | 🌀 Flexibilidad mental      |
+
 
 ---
 
