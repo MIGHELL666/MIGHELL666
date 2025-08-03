@@ -101,5 +101,4 @@
 <!-- FOOTER DECORATIVO CON GRADIENTE MÁS VIBRANTE -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00FFFF,FF00FF,FFFF00,00FF00&height=120&section=footer"/>
-  <h3>⭐ ¡Tu apoyo me impulsa a seguir creando! ⭐</h3>
 </div>
