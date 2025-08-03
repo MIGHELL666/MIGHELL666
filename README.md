@@ -54,7 +54,7 @@
 
 ### 💻 Tecnologías y Enfoques
 
->- ⚙️ **Desarrollo de videojuegos** con *Unreal Engine 5* y *Blueprints*  
+>- ⚙️ **Desarrollo de videojuegos** 
 >- 🧠 **Backend**, **redes**, **hacking ético** e **inteligencia artificial**  
 >- 🌐 Explorando nuevas formas de integrar diseño + código + seguridad  
 
