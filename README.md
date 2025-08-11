@@ -27,8 +27,8 @@
 
 <!-- 🧭 STATS / VISITAS -->
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=MIGHELL666.MIGHELL666&label=VISITANTES&countColor=%23f92672" alt="Visitas" /> &nbsp &nbsp
-  ![GitHub followers](https://img.shields.io/github/followers/MIGHELL666?label=Seguidores&style=for-the-badge)
+  <img src="https://api.visitorbadge.io/api/visitors?path=MIGHELL666.MIGHELL666&label=VISITANTES&countColor=%23f92672" alt="Visitas" /> &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/MIGHELL666?label=Seguidores&style=for-the-badge" alt="Seguidores en GitHub">
 </p>
 
 <!-- 🛰️ REDES / CONTACTO CON BADGES MODERNOS 🛰️ -->
