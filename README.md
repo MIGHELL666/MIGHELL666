@@ -45,6 +45,16 @@
 </p>
 
 ---
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=MIGHELL666&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIGHELL666&layout=compact&theme=tokyonight" />
+
+
+---
+
+---
 ## 🧬 SOBRE MÍ
 
 > 🎓 **Estudiante de Ingeniería en Tecnologías de la Información**  
