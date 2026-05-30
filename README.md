@@ -20,7 +20,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=40&pause=5000&color=00FFFF&center=true&vCenter=true&width=700&lines=💻+JOSÉ+MIGUEL+💻" alt="Typing SVG - José Miguel" />
 </h1>
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=5000&color=FF00FF&center=true&vCenter=true&width=1000&lines=🧠+Full+Stack+en+formación+|+⚔️+Cybersecurity+|+🎮+Game+Dev" alt="Typing SVG - Roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=5000&color=FF00FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer" alt="Typing SVG - Roles" />
 </h2>
 
 ---
@@ -102,11 +102,3 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00FFFF,FF00FF,FFFF00,00FF00&height=120&section=footer"/>
 </div>
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MIGHELL666&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIGHELL666&layout=compact&theme=tokyonight"/>
-</p>
