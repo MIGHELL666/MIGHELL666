@@ -20,7 +20,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=40&pause=5000&color=00FFFF&center=true&vCenter=true&width=700&lines=💻+JOSÉ+MIGUEL+💻" alt="Typing SVG - José Miguel" />
 </h1>
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=5000&color=FF00FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer" alt="Typing SVG - Roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=5000&color=FF00FF&center=true&vCenter=true&width=1000&lines=🧠+Full+Stack+Developer🧠" alt="Typing SVG - Roles" />
 </h2>
 
 ---
