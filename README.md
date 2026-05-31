@@ -85,12 +85,6 @@ Soy estudiante de Ingeniería en Tecnologías de la Información con formación 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MIGHELL666&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
-<!-- ==================== FILA INFERIOR: ACTIVITY GRAPH ==================== -->
-
-<div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MIGHELL666&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
-</div>
-
 <!-- ==================== FOOTER ==================== -->
 
 <div>
