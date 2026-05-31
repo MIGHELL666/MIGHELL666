@@ -164,10 +164,18 @@
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/MIGHELL666/stats-output/stats.svg" height="160" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/MIGHELL666/languages-output/languages.svg" height="155" alt="languages graph"  />
+<!-- ==================== STATS ==================== -->
+
+<div align="center">
+  <img src="https://github-readme-stats-ten-neon-77.vercel.app/api?username=mighell666&show_icons=true&theme=tokyonight" alt="My stats" width="66%"/>
 </div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats-ten-neon-77.vercel.app/api/top-langs/?username=mighell666&layout=compact&theme=tokyonight&langs_count=8" alt="My Top Languages" width="66%"/>
+</div>
+
 
 ###
 
