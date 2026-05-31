@@ -64,34 +64,29 @@ Soy estudiante de Ingeniería en Tecnologías de la Información con formación 
 <br><br>
 
 <!-- ==================== BENTO GRID: LANGUAGES + STATS + STREAK ==================== -->
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+
+<table align="center" width="100%">
   <tr>
-    <!-- COLUMNA IZQUIERDA: Tarjeta Grande (Most Used Languages) -->
-    <td width="55%" align="center" valign="middle" style="border: none; padding-right: 5px;">
-      <img src="https://github-readme-stats-ten-neon-77.vercel.app/api/top-langs/?username=mighell666&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="GitHub Top Languages" style="width: 100%; max-width: 500px; height: auto;" />
+    <td width="50%" rowspan="2" align="center" valign="middle">
+      <img src="https://github-readme-stats-ten-neon-77.vercel.app/api/top-langs/?username=mighell666&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="GitHub Top Languages" width="100%" />
     </td>
-    
-    <!-- COLUMNA DERECHA: Dos tarjetas apiladas (Stats y Streak) -->
-    <td width="45%" align="center" valign="middle" style="border: none; padding-left: 5px;">
-      <table width="100%" style="border-collapse: collapse; border: none;">
-        <!-- Fila Superior Derecha: GitHub Stats -->
-        <tr>
-          <td align="center" style="border: none; padding-bottom: 8px;">
-            <img src="https://github-readme-stats-ten-neon-77.vercel.app/api?username=mighell666&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" style="width: 100%; max-width: 400px; height: auto;" />
-          </td>
-        </tr>
-        <!-- Fila Inferior Derecha: GitHub Streak -->
-        <tr>
-          <td align="center" style="border: none; padding-top: 8px;">
-            <img src="https://streak-stats.demolab.com?user=MIGHELL666&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="width: 100%; max-width: 400px; height: auto;" />
-          </td>
-        </tr>
-      </table>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-stats-ten-neon-77.vercel.app/api?username=mighell666&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://streak-stats.demolab.com?user=MIGHELL666&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
     </td>
   </tr>
 </table>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MIGHELL666&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
+</div>
+
 <!-- ==================== FILA INFERIOR: ACTIVITY GRAPH ==================== -->
+
 <div align="center" style="margin-top: 15px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MIGHELL666&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
