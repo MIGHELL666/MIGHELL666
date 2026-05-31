@@ -66,16 +66,27 @@ Soy estudiante de Ingeniería en Tecnologías de la Información con formación 
 
 <!-- ==================== STATS + LANGUAGES ==================== -->
 
-<div align="center">
-  <img src="https://github-readme-stats-ten-neon-77.vercel.app/api?username=mighell666&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="195" />
-  <img src="https://github-readme-stats-ten-neon-77.vercel.app/api/top-langs/?username=mighell666&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="GitHub Top Languages" height="195" />
-</div>
+<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="50%" align="center" style="border: none; padding: 0;">
+      <img src="https://github-readme-stats-ten-neon-77.vercel.app/api?username=mighell666&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" style="width: 100%; max-width: 450px; height: auto;" />
+    </td>
+    <td width="50%" align="center" style="border: none; padding: 0;">
+      <img src="https://github-readme-stats-ten-neon-77.vercel.app/api/top-langs/?username=mighell666&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="GitHub Top Languages" style="width: 100%; max-width: 450px; height: auto;" />
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MIGHELL666&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MIGHELL666&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
-</div>
-
+<table align="center" width="100%" style="border-collapse: collapse; border: none; margin-top: 10px;">
+  <tr>
+    <td width="50%" align="center" style="border: none; padding: 0;">
+      <img src="https://streak-stats.demolab.com?user=MIGHELL666&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="width: 100%; max-width: 450px; height: auto;" />
+    </td>
+    <td width="50%" align="center" style="border: none; padding: 0;">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=MIGHELL666&theme=tokyo-night&hide_border=true" alt="Activity Graph" style="width: 100%; max-width: 450px; height: auto;" />
+    </td>
+  </tr>
+</table>
 <!-- ==================== FOOTER ==================== -->
 
 <div>
