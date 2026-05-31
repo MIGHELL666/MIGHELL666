@@ -63,18 +63,30 @@ Soy estudiante de Ingeniería en Tecnologías de la Información con formación 
 
 <br><br>
 
-<!-- ==================== ESTADISTICAS ==================== -->
+<!-- ==================== ESTADÍSTICAS ==================== -->
 
 <div align="center">
 
-  ![<MIGHELL666>'s Stats](https://github-readme-stats.vercel.app/api?username=<MIGHELL666>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-  
-  ###
-  
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=MIGHELL666&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIGHELL666&layout=compact&langs_count=8&theme=tokyonight" />
+
+</div>
+
+<br>
+
+<div align="center">
+
   <img src="https://streak-stats.demolab.com?user=MIGHELL666&theme=tokyonight" />
-  
-  ###
-  
+
+</div>
+
+<br>
+
+<div align="center">
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MIGHELL666&theme=tokyo-night" />
 
 </div>
