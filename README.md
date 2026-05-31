@@ -69,9 +69,7 @@
 ###
 
 <div>
- <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient">
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&text=BIENVENID@&fontSize=45&fontColor=feb47b&animation=twinkling&color=gradient">
 </div>
 
 ###
