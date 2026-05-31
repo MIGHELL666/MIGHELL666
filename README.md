@@ -4,6 +4,8 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=BIENVENID@&fontSize=45&fontColor=feb47b&fontAlign=50&fontAlignY=77&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" />
 </div>
 
+<br><br>
+
 <!-- ==================== VISITAS ==================== -->
 
 <div align="center">
@@ -65,10 +67,10 @@ Soy estudiante de Ingeniería en Tecnologías de la Información con formación 
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=MIGHELL666&theme=tokyonight" />
-
+  ![Top Languages](https://vercel.app)
   ###
-  
+  <img src="https://streak-stats.demolab.com?user=MIGHELL666&theme=tokyonight" />
+  ###
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MIGHELL666&theme=tokyo-night" />
 
 </div>
