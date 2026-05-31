@@ -69,6 +69,8 @@
 ###
 
 <div>
+  <img src="https://raw.githubusercontent.com/MIGHELL666/MIGHELL666/stats-output/stats.svg" />
+  <img src="https://raw.githubusercontent.com/MIGHELL666/MIGHELL666/languages-output/languages.svg" />
 </div>
 
 ###
