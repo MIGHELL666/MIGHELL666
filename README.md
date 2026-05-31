@@ -1,25 +1,3 @@
-<table>
-<tr>
-<td width="60%">
-
-## SOBRE MI
-
-Tu información aquí...
-
-## TECNOLOGÍAS
-
-Tus tecnologías aquí...
-
-</td>
-<td width="40%">
-
-<img src="TU_GIF" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-
 <!-- ==================== HEADER ==================== -->
 
 <div>
@@ -50,29 +28,18 @@ Tus tecnologías aquí...
 
 <!-- ==================== SOBRE MI ==================== -->
 
-<h2 align="left">SOBRE MI</h2>
+<table>
+<tr>
+<td width="60%">
 
-###
+## SOBRE MI
 
-<h5 align="left">
-  
-  > **✨Soy estudiante de Ingeniería en Tecnologías de la Información con formación en el diseño, desarrollo e implementación de soluciones tecnológicas orientadas a resolver necesidades reales de personas y
+>**✨Soy estudiante de Ingeniería en Tecnologías de la Información con formación en el diseño, desarrollo e implementación de soluciones tecnológicas orientadas a resolver necesidades reales de personas y
          organizaciones.**
-  
-  <br>
-  
-  > **📍UNIVERSIDAD POLITECNICA DE GÓMEZ PALACIO.</h5>**
 
-###
+<br>
 
-<!-- ==================== REDES SOCIALES ==================== -->
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-</div>
-
-###
+>**📍UNIVERSIDAD POLITECNICA DE GÓMEZ PALACIO.</h5>**
 
 <!-- ==================== TECNOLOGIAS ==================== -->
 
@@ -107,6 +74,28 @@ Tus tecnologías aquí...
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
+
+
+</td>
+<td width="40%">
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXk0ZHd4cDc4Mm5zdTk4ZTh4am41ZGRqeHJyNnhndW1mejN6cDA5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+###
+
+<!-- ==================== REDES SOCIALES ==================== -->
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+</div>
+
+###
+
 
 ###
 
