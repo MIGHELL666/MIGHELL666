@@ -20,14 +20,11 @@
 </div>
 
 <!-- ==================== SOBRE MI ==================== -->
+## 👤 Sobre mí
 
-<br clear="both">
+> ✨ **Estudiante de Ingeniería en Tecnologías de la Información** con formación sólida en el diseño, desarrollo e implementación de soluciones tecnológicas. Mi enfoque está orientado a resolver necesidades reales de personas y organizaciones mediante código limpio y eficiente. 🚀
 
-<h5 align="left">
-Soy estudiante de Ingeniería en Tecnologías de la Información con formación en el diseño, desarrollo e implementación de soluciones tecnológicas
-  orientadas a resolver necesidades reales de personas y organizaciones.
-</h5>
-
+<br>
 <!-- ==================== TECNOLOGIAS ==================== -->
 
 <h3 align="center">TECNOLOGÍAS</h3>
