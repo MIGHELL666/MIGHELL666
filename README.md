@@ -31,7 +31,7 @@
 
 <!-- ==================== TECNOLOGIAS ==================== -->
 
-<h2 align="left">TECNOLOGIAS</h2>
+<h2 align="left">⚡TECNOLOGIAS</h2>
 
 ###
 
