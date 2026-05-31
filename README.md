@@ -37,11 +37,11 @@
 
 <!-- SECCION SOBRE MI-->
 
-##🔴Sobre Mi
+## 🔴Sobre Mi
 >🎓 **Estudiante de Ingeniería en Tecnologías de la Información**  
 >­­­📍 *Universidad Politécnica de Gómez Palacio (UPGOP)*
 
-##🔴Áreas De Interés
+## 🔴Áreas De Interés
 📱 Desarrollo de aplicaciones móviles con Flutter
 🌐 Desarrollo web y sistemas backend
 🗄️ Bases de datos y arquitectura de software
@@ -50,7 +50,7 @@
 
 ---
 
-###🔴FORTALEZAS
+### 🔴FORTALEZAS
 🧩 Resolución de problemas
 📚 Aprendizaje autónomo
 🎯 Disciplina y constancia
