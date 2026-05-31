@@ -20,6 +20,7 @@
 </div>
 
 <!-- ==================== SOBRE MI ==================== -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=666&size=30&duration=2000&pause=2000&color=0C8CF7&width=435&lines=SOBRE+M%C3%8D)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=666&size=25&duration=2000&pause=2000&color=0C8CF7&width=435&lines=SOBRE+M%C3%8D)](https://git.io/typing-svg)
 
 > ** ✨Soy estudiante de Ingeniería en Tecnologías de la Información con formación en el diseño, desarrollo e implementación de soluciones tecnológicas orientadas a resolver necesidades reales de personas y organizaciones.**
