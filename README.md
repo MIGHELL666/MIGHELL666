@@ -41,22 +41,23 @@
 >🎓 **Estudiante de Ingeniería en Tecnologías de la Información**  
 >­­­📍 *Universidad Politécnica de Gómez Palacio (UPGOP)*
 
-## 🔴Áreas De Interés
-📱 Desarrollo de aplicaciones móviles con Flutter
-🌐 Desarrollo web y sistemas backend
-🗄️ Bases de datos y arquitectura de software
-🎮 Desarrollo de videojuegos
-🤖 Inteligencia artificial y automatización
+## 🔴Áreas de Interés
+
+▸ 📱 Desarrollo de aplicaciones móviles con Flutter  
+▸ 🌐 Desarrollo web y sistemas backend  
+▸ 🗄️ Bases de datos y arquitectura de software  
+▸ 🎮 Desarrollo de videojuegos  
+▸ 🤖 Inteligencia artificial y automatización
 
 ## 🔴FORTALEZAS
-🧩 Resolución de problemas
-📚 Aprendizaje autónomo
-🎯 Disciplina y constancia
-🔍 Pensamiento analítico
-🤝 Trabajo en equipo
-🔄 AdaptabilidaD
-💡 Curiosidad tecnológica
-📈 Mejora continua
+▸🧩 Resolución de problemas
+▸📚 Aprendizaje autónomo
+▸🎯 Disciplina y constancia
+▸🔍 Pensamiento analítico
+▸🤝 Trabajo en equipo
+▸🔄 AdaptabilidaD
+▸💡 Curiosidad tecnológica
+▸📈 Mejora continua
 
 ## <div align="center">**TECNOLOGIAS QUE CONOZCO**</div>
 <p align="center">
