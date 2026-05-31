@@ -56,6 +56,9 @@
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
+###
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MIGHELL666&show_icons=true)
 
 ###
 <div>
