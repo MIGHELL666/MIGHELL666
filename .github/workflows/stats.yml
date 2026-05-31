@@ -5,12 +5,12 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   metrics:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
 
     steps:
       - name: Generate stats
@@ -19,7 +19,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: MIGHELL666
           filename: stats.svg
-          template: classic
           base: header, activity, repositories, metadata
 
       - name: Generate languages
@@ -28,6 +27,5 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: MIGHELL666
           filename: languages.svg
-          template: classic
           plugin_languages: yes
-          plugin_languages_limit: 6
+          plugin_languages_limit: 8
