@@ -28,7 +28,7 @@
 <br>
 <!-- ==================== TECNOLOGIAS ==================== -->
 
-<h3 align="center">TECNOLOGÍAS</h3>
+<h1 align="center">TECNOLOGÍAS</h1>
 
 <br clear="both">
 
