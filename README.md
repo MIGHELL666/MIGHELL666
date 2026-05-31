@@ -63,25 +63,25 @@ Soy estudiante de Ingeniería en Tecnologías de la Información con formación 
 
 <br><br>
 
-<!-- ==================== BENTO GRID: LANGUAGES + STATS + STREAK ==================== -->
+<!-- ==================== BENTO GRID CLEAN ==================== -->
+<div width="100%">
+  <!-- COLUMNA IZQUIERDA: Tarjeta Grande (Most Used Languages) -->
+  <div align="left" style="float: left; width: 54%; max-width: 500px;">
+    <img src="https://github-readme-stats-ten-neon-77.vercel.app/api/top-langs/?username=mighell666&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="GitHub Top Languages" width="100%" />
+  </div>
+  
+  <!-- COLUMNA DERECHA: Dos tarjetas apiladas (Stats y Streak) -->
+  <div align="right" style="float: right; width: 44%; max-width: 400px;">
+    <img src="https://github-readme-stats-ten-neon-77.vercel.app/api?username=mighell666&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="100%" style="margin-bottom: 10px;" />
+    <img src="https://streak-stats.demolab.com?user=MIGHELL666&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+  </div>
+</div>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" rowspan="2" align="center" valign="middle">
-      <img src="https://github-readme-stats-ten-neon-77.vercel.app/api/top-langs/?username=mighell666&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="GitHub Top Languages" width="100%" />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats-ten-neon-77.vercel.app/api?username=mighell666&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://streak-stats.demolab.com?user=MIGHELL666&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-    </td>
-  </tr>
-</table>
+<!-- Limpiador de flujo para evitar que el gráfico se monte -->
+<div style="clear: both;"></div>
 
-<div align="center">
+<!-- ==================== FILA INFERIOR: ACTIVITY GRAPH ==================== -->
+<div align="center" style="margin-top: 15px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MIGHELL666&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
