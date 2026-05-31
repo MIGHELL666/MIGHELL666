@@ -19,7 +19,7 @@
 <table align="right">
 <tr>
 <td>
-<img height="333" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXk0ZHd4cDc4Mm5zdTk4ZTh4am41ZGRqeHJyNnhndW1mejN6cDA5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
+<img height="330" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXk0ZHd4cDc4Mm5zdTk4ZTh4am41ZGRqeHJyNnhndW1mejN6cDA5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
 </td>
 </tr>
 </table>
