@@ -67,19 +67,13 @@ Soy estudiante de Ingeniería en Tecnologías de la Información con formación 
 <!-- ==================== STATS + LANGUAGES ==================== -->
 
 <div align="center">
-
-![GitHub stats](https://github-readme-stats-ten-neon-77.vercel.app/api?username=mighell666&show_icons=true&theme=tokyonight&card_width=200)
-
-![GitHub Top Languages](https://github-readme-stats-ten-neon-77.vercel.app/api/top-langs/?username=mighell666&layout=compact&theme=tokyonight&langs_count=10&card_width=200)
-
+  <img src="https://github-readme-stats-ten-neon-77.vercel.app/api?username=mighell666&show_icons=true&theme=tokyonight&card_width=200" alt="GitHub stats" />
+  <img src="https://github-readme-stats-ten-neon-77.vercel.app/api/top-langs/?username=mighell666&layout=compact&theme=tokyonight&langs_count=10&card_width=200" alt="GitHub Top Languages" />
 </div>
 
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MIGHELL666&theme=tokyonight&hide_border=true)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MIGHELL666&theme=tokyo-night&hide_border=true)
-
+  <img src="https://streak-stats.demolab.com?user=MIGHELL666&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MIGHELL666&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 <!-- ==================== FOOTER ==================== -->
