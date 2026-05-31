@@ -1,33 +1,75 @@
-# ─── ⋆⋅☆⋅⋆ ── 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝓈𝓅𝒶𝒸𝑒 ── ⋆⋅☆⋅⋆ ───
-
-<div align="center">
-  <!-- Reemplaza el enlace de la imagen por un GIF de tu anime retro favorito -->
-  <img src="https://media.giphy.com/media/d906FK911GPXq/giphy.gif" width="450" alt="Retro Anime Aesthetic"/>
-  
-  <h3>🪐 ʟᴏᴀᴅɪɴɢ ꜱʏꜱᴛᴇᴍ... 100% ᴄᴏᴍᴘʟᴇᴛᴇ.</h3>
-  <p><i>"El futuro no es una línea recta, es un lienzo lleno de código y luces de neón."</i></p>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=BIENVENID@&fontSize=45&fontColor=feb47b&fontAlign=50&fontAlignY=77&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
----
+###
 
-### 📡 𝔇𝔞𝔱𝔞𝔟𝔞𝔰𝔢 𝔓𝔯𝔬𝔣𝔦𝔩𝔢
+<div align="center">
+  <img src="https://count.getloli.com/@:MIGHELL666?theme=booru-lewd&padding=7&scale=1.3&align=top&pixelated=1&darkmode=0"  />
+</div>
 
-*   **Usuario:** `[Tu Nombre/Nick]`
-*   **Clase:** `Full-Stack Developer` / `Cyber Archaeologist` / `Code Wizard`
-*   **Ubicación:** `Sector [Tu Ciudad/País]`
-*   **Estado:** 🟢 `Compilando activamente nuevas ideas...`
+###
 
----
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="instagram logo"  />
+</div>
 
-### 💻 𝔗𝔢𝔠𝔥𝔫𝔬𝔩𝔬𝔤𝔶 𝔖𝔱𝔞𝔠𝔨
+###
 
-*Para mantener la estética retro, puedes usar insignias monocromáticas o de colores neón.*
+<br clear="both">
 
+<h5 align="left">Soy estudiante de Ingeniería en Tecnologías de la Información con formación en el diseño, desarrollo e implementación de soluciones tecnológicas orientadas a resolver necesidades reales de personas y organizaciones.</h5>
 
-<p align="left">
-  <img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)" />
-  <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)" />
-  <img src="[https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)" />
-  <img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)" />
-</p>
+###
+
+<h3 align="center">TECNOLOGIAS</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MIGHELL666/MIGHELL666/stats-output/stats.svg" height="155" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/MIGHELL666/MIGHELL666/languages-output/languages.svg" height="155" alt="languages graph"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
