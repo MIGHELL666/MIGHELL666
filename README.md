@@ -85,8 +85,8 @@
 <!-- ==================== STATS ==================== -->
 
 <div align="center">
-  <img src="https://github-readme-stats-ten-neon-77.vercel.app/api?username=mighell666&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-stats-ten-neon-77.vercel.app/api/top-langs/?username=mighell666&layout=compact&theme=tokyonight&langs_count=8" width="49%" />
+  <img height="180em" src="https://github-readme-stats-ten-neon-77.vercel.app/api?username=mighell666&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-ten-neon-77.vercel.app/api/top-langs/?username=mighell666&layout=compact&theme=tokyonight&langs_count=8" />
 </div>
 
 ###
