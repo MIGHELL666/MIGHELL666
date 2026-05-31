@@ -67,7 +67,7 @@ Soy estudiante de Ingeniería en Tecnologías de la Información con formación 
 
 <div align="center">
 
-  ![MIGHELL666's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=MIGHELL666-2005&hide=contribs,prs)
+  ![MIGHELL666 GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=MIGHELL666-2005&hide=contribs,prs)
 
   <img height="180em"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIGHELL666&layout=compact&theme=tokyonight" />
