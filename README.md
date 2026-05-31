@@ -20,7 +20,7 @@
 <tr>
 <td width="60%">
 
-## HOLA SOY JOSÉ MIGUEL ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ
+## HOLA SOY JOSÉ MIGUEL ﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ
 
 >**✨Soy estudiante de Ingeniería en Tecnologías de la Información con formación en el diseño, desarrollo e implementación de soluciones tecnológicas orientadas a resolver necesidades reales de personas y
          organizaciones.**
