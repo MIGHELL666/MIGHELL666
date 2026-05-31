@@ -25,11 +25,11 @@
 
 <h1 align="center">SOBRE MÍ</h1>
 
-> ** ✨Soy estudiante de Ingeniería en Tecnologías de la Información con formación en el diseño, desarrollo e implementación de soluciones tecnológicas orientadas a resolver necesidades reales de personas y organizaciones.**
+> **✨Soy estudiante de Ingeniería en Tecnologías de la Información con formación en el diseño, desarrollo e implementación de soluciones tecnológicas orientadas a resolver necesidades reales de personas y organizaciones.**
 
 <br>
 
-> ** 📍UNIVERSIDAD POLITECNICA DE GÓMEZ PALACIO 
+> **📍UNIVERSIDAD POLITECNICA DE GÓMEZ PALACIO 
 
 <br>
 
