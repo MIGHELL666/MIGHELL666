@@ -60,13 +60,20 @@
 ###
 
 <div align="center">
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MIGHELL666&theme=tokyonight&show_icons=true&cache_seconds=1800" />
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIGHELL666&layout=compact&theme=tokyonight&cache_seconds=1800" />
+
+  <br><br>
+
+  <img src="https://streak-stats.demolab.com?user=MIGHELL666&theme=tokyonight" />
+
+  <br><br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MIGHELL666&theme=tokyo-night" />
+
 </div>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MIGHELL666)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MIGHELL666)
 
 ###
 
