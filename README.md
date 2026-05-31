@@ -61,6 +61,8 @@ Soy estudiante de Ingeniería en Tecnologías de la Información con formación 
 
 <!-- ==================== ESTADISTICAS ==================== -->
 
+###
+
 <div align="center">
 
   <img src="https://streak-stats.demolab.com?user=MIGHELL666&theme=tokyonight" />
