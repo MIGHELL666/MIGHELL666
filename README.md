@@ -66,7 +66,7 @@ Soy estudiante de Ingeniería en Tecnologías de la Información con formación 
 
 <!-- ==================== STATS + LANGUAGES ==================== -->
 
-<div align="center" style="white-space: nowrap;">
+<div align="left" style="white-space: nowrap;">
 
   <img
     width="48%"
