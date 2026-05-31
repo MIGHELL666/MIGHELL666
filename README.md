@@ -76,9 +76,9 @@ Soy estudiante de Ingeniería en Tecnologías de la Información con formación 
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MIGHELL666) 
+![GitHub Streak](https://streak-stats.demolab.com?user=MIGHELL666&theme=tokyonight&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MIGHELL666)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MIGHELL666&theme=tokyo-night&hide_border=true)
 
 </div>
 
