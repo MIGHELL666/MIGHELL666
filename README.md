@@ -59,16 +59,16 @@ Soy estudiante de Ingeniería en Tecnologías de la Información con formación 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo" />
 </div>
 
-<!-- ==================== ESTADISTICAS ==================== -->
+<br><br>
 
-###
+<!-- ==================== ESTADISTICAS ==================== -->
 
 <div align="center">
 
   <img src="https://streak-stats.demolab.com?user=MIGHELL666&theme=tokyonight" />
 
-  <br><br>
-
+  ###
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MIGHELL666&theme=tokyo-night" />
 
 </div>
