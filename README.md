@@ -67,8 +67,11 @@ Soy estudiante de Ingeniería en Tecnologías de la Información con formación 
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/MIGHELL666/MIGHELL666/main/stats.svg" height="155" />
-  <img src="https://raw.githubusercontent.com/MIGHELL666/MIGHELL666/main/languages.svg" height="155" />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=MIGHELL666&show_icons=true&theme=tokyonight" />
+
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIGHELL666&layout=compact&theme=tokyonight" />
 
 </div>
 
