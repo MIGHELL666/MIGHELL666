@@ -20,13 +20,12 @@
 </div>
 
 <!-- ==================== SOBRE MI ==================== -->
+## 👤 Sobre mí
 
-<div align="center">
-<p>
-  > Soy estudiante de Ingeniería en Tecnologías de la Información con formación en el diseño, desarrollo e implementación de soluciones tecnológicas
+> **Soy estudiante de Ingeniería en Tecnologías de la Información con formación en el diseño, desarrollo e implementación de soluciones tecnológicaS
     orientadas a resolver necesidades reales de personas y organizaciones.
-</p>
-</div>
+
+<br>
 
 
 <br>
