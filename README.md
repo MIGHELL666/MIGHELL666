@@ -29,6 +29,10 @@
 
 <br>
 
+> ** 📍UNIVERSIDAD POLITECNICA DE GÓMEZ PALACIO 
+
+<br>
+
 <br>
 <!-- ==================== TECNOLOGIAS ==================== -->
 
