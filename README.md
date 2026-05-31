@@ -4,11 +4,11 @@
 </div>
 
 <!-- TÍTULO PRINCIPAL CON EFECTOS DE ESCRITURA Y COLORES VIBRANTES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-00FFFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter" />
-  <img src="https://img.shields.io/badge/Cybersecurity-FF00FF?style=for-the-badge" />
-</p>
+<h2 align="center">👾 BIENVENIDO 👾</h2>
+
+<h1 align="center">💻 JOSÉ MIGUEL 💻</h1>
+
+<h2 align="center">🧠 Full Stack Developer 🧠</h2>
 
 <!-- STATS / VISITAS -->
 <p align="center">
