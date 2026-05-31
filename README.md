@@ -61,9 +61,7 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MIGHELL666&theme=tokyonight&show_icons=true&cache_seconds=1800" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIGHELL666&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=MIGHELL666&theme=tokyonight" />
 
   <br><br>
 
