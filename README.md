@@ -48,17 +48,15 @@
 🎮 Desarrollo de videojuegos
 🤖 Inteligencia artificial y automatización
 
----
-
-### 🔴FORTALEZAS
-🧩 Resolución de problemas
-📚 Aprendizaje autónomo
-🎯 Disciplina y constancia
-🔍 Pensamiento analítico
-🤝 Trabajo en equipo
-🔄 Adaptabilidad
-💡 Curiosidad tecnológica
-📈 Mejora continua
+## 🔴FORTALEZAS
+🧩 Resolución de problemas,
+📚 Aprendizaje autónomo,
+🎯 Disciplina y constancia,
+🔍 Pensamiento analítico,
+🤝 Trabajo en equipo,
+🔄 AdaptabilidaD,
+💡 Curiosidad tecnológica,
+📈 Mejora continua,
 
 ## <div align="center">**TECNOLOGIAS QUE CONOZCO**</div>
 <p align="center">
