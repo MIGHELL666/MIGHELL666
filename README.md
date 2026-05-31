@@ -68,7 +68,7 @@ Soy estudiante de Ingeniería en Tecnologías de la Información con formación 
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats-ten-neon-77.vercel.app/api?username=mighell666&show_icons=true&theme=tokyonight&card_width=500)
+![GitHub stats](https://github-readme-stats-ten-neon-77.vercel.app/api?username=mighell666&show_icons=true&theme=tokyonight&card_width=500,
 
 ![GitHub Top Languages](https://github-readme-stats-ten-neon-77.vercel.app/api/top-langs/?username=mighell666&layout=compact&theme=tokyonight&langs_count=10&card_width=500)
 
@@ -76,7 +76,9 @@ Soy estudiante de Ingeniería en Tecnologías de la Información con formación 
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MIGHELL666) ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MIGHELL666)
+![GitHub Streak](https://streak-stats.demolab.com?user=MIGHELL666) 
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MIGHELL666)
 
 </div>
 
