@@ -63,25 +63,16 @@ Soy estudiante de Ingeniería en Tecnologías de la Información con formación 
 
 <br><br>
 
-<!-- ==================== BENTO GRID CLEAN ==================== -->
+<!-- ==================== STATS ==================== -->
 
 <div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
-    
-    <div style="flex: 1; max-width: 495px;">
-      <img src="https://github-readme-stats-ten-neon-77.vercel.app/api/top-langs/?username=mighell666&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="GitHub Top Languages" width="495" />
-    </div>
-    
-    <div style="display: flex; flex-direction: column; gap: 10px; max-width: 450px;">
-      <img src="https://github-readme-stats-ten-neon-77.vercel.app/api?username=mighell666&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="450" />
-      <img src="https://streak-stats.demolab.com?user=MIGHELL666&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="450" />
-    </div>
-
-  </div>
+  <img src="https://github-readme-stats-ten-neon-77.vercel.app/api?username=mighell666&show_icons=true&theme=tokyonight" alt="GitHub stats" height="195" />
+  <img src="https://github-readme-stats-ten-neon-77.vercel.app/api/top-langs/?username=mighell666&layout=compact&theme=tokyonight&langs_count=8" alt="GitHub Top Languages" height="195" />
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MIGHELL666&theme=tokyo-night&hide_border=true" width="960" alt="Activity Graph" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MIGHELL666&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MIGHELL666&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="48%" />
 </div>
 
 <!-- ==================== FOOTER ==================== -->
