@@ -1,63 +1,33 @@
-<!-- HEADER DECORATIVO CON GRADIENTE MÁS VIBRANTE -->
+# ─── ⋆⋅☆⋅⋆ ── 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝓈𝓅𝒶𝒸𝑒 ── ⋆⋅☆⋅⋆ ───
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00FFFF,FF00FF,FFFF00,00FF00&height=120&section=header"/>
+  <!-- Reemplaza el enlace de la imagen por un GIF de tu anime retro favorito -->
+  <img src="https://media.giphy.com/media/d906FK911GPXq/giphy.gif" width="450" alt="Retro Anime Aesthetic"/>
+  
+  <h3>🪐 ʟᴏᴀᴅɪɴɢ ꜱʏꜱᴛᴇᴍ... 100% ᴄᴏᴍᴘʟᴇᴛᴇ.</h3>
+  <p><i>"El futuro no es una línea recta, es un lienzo lleno de código y luces de neón."</i></p>
 </div>
-
-<!-- TÍTULO PRINCIPAL CON EFECTOS DE ESCRITURA Y COLORES VIBRANTES -->
-<h2 align="center">👾 BIENVENIDO 👾</h2>
-
-<h1 align="center">💻 JOSÉ MIGUEL 💻</h1>
-
-<h2 align="center">🧠 Full Stack Developer 🧠</h2>
-
-<!-- STATS / VISITAS -->
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=MIGHELL666.MIGHELL666&label=VISITANTES&countColor=%23f92672" alt="Visitas" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/MIGHELL666?label=Seguidores&style=for-the-badge" alt="Seguidores en GitHub">
-</p>
-
-<!-- 🛰️ REDES / CONTACTO CON BADGES MODERNOS 🛰️ -->
-<p align="center">
-  <a href="https://github.com/MIGHELL666" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=1A1A2E" />
-  </a>&nbsp&nbsp
-  <a href="https://www.instagram.com/miguelf546/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>&nbsp&nbsp
-  <a href="https://www.linkedin.com/in/jos%C3%A9-miguel-flores-d%C3%A1vila-ba1a72370/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
 ---
 
-<!-- SECCION SOBRE MI-->
+### 📡 𝔇𝔞𝔱𝔞𝔟𝔞𝔰𝔢 𝔓𝔯𝔬𝔣𝔦𝔩𝔢
 
-## 🔴Sobre Mi
->🎓 **Estudiante de Ingeniería en Tecnologías de la Información**  
->­­­📍 *Universidad Politécnica de Gómez Palacio (UPGOP)*
+*   **Usuario:** `[Tu Nombre/Nick]`
+*   **Clase:** `Full-Stack Developer` / `Cyber Archaeologist` / `Code Wizard`
+*   **Ubicación:** `Sector [Tu Ciudad/País]`
+*   **Estado:** 🟢 `Compilando activamente nuevas ideas...`
 
-## 🔴Áreas de Interés
+---
 
-▸ 📱 Desarrollo de aplicaciones móviles con Flutter  
-▸ 🌐 Desarrollo web y sistemas backend  
-▸ 🗄️ Bases de datos y arquitectura de software  
-▸ 🎮 Desarrollo de videojuegos  
-▸ 🤖 Inteligencia artificial y automatización
+### 💻 𝔗𝔢𝔠𝔥𝔫𝔬𝔩𝔬𝔤𝔶 𝔖𝔱𝔞𝔠𝔨
 
-## <div align="center">**TECNOLOGIAS QUE CONOZCO**</div>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=discord,vscode,py,pycharm,git,github,js,npm,html,css,cs,mysql,nodejs,figma,blender,linkedin,notion,gmail,visualstudio,unreal,kotlin,androidstudio,linux,mint,apple,windows,powershell,firebase,tailwind,react&perline=15&theme=dark" />
+*Para mantener la estética retro, puedes usar insignias monocromáticas o de colores neón.*
+
+```html
+<p align="left">
+  <img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)" />
+  <img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)" />
+  <img src="[https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)" />
+  <img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)" />
 </p>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20JavaScript-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Python-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Game%20Dev-Unreal%20Engine%205-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mobile-Kotlin%20%7C%20Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-</p>
-
-<!-- FOOTER DECORATIVO CON GRADIENTE MÁS VIBRANTE -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00FFFF,FF00FF,FFFF00,00FF00&height=120&section=footer"/>
-</div>
