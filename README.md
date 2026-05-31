@@ -1,30 +1,3 @@
-<!-- ==================== HEADER ==================== -->
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=BIENVENID@&fontSize=45&fontColor=feb47b&fontAlign=50&fontAlignY=77&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" />
-</div>
-
-<br><br>
-
-<!-- ==================== VISITAS ==================== -->
-
-<div align="center">
-  <img src="https://count.getloli.com/@:MIGHELL666?theme=booru-lewd&padding=7&scale=1&align=top&pixelated=1&darkmode=0" />
-</div>
-
-<br>
-
-<!-- ==================== REDES SOCIALES ==================== -->
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/mighell666" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="39" />
-  </a>
-
-  <a href="https://instagram.com/miguelf546" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="39" />
-  </a>
-</div>
 
 <!-- ==================== SOBRE MI ==================== -->
 
@@ -87,7 +60,6 @@
   <img src="https://github-readme-stats-ten-neon-77.vercel.app/api/top-langs/?username=mighell666&layout=compact&theme=tokyonight&langs_count=8" alt="My Top Languages" width="66%"/>
 </div>
 
-<!-- ==================== FOOTER ==================== -->
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&text=&fontSize=45&fontColor=feb47b&fontAlign=50&fontAlignY=77&stroke=&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" />
@@ -96,8 +68,7 @@
 
 
 
-
-
+<!-- ==================== HEADER ==================== -->
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=BIENVENID@&fontSize=36&fontColor=feb47b&fontAlign=50&fontAlignY=77&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=EAF5FA"  />
@@ -105,11 +76,15 @@
 
 ###
 
+<!-- ==================== VISITAS ==================== -->
+
 <div align="center">
   <img src="https://count.getloli.com/@:MIGHELL666?theme=booru-lewd&padding=7&scale=1.3&align=top&pixelated=1&darkmode=0"  />
 </div>
 
 ###
+
+<!-- ==================== GIF ==================== -->
 
 <img align="right" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXk0ZHd4cDc4Mm5zdTk4ZTh4am41ZGRqeHJyNnhndW1mejN6cDA5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
@@ -122,6 +97,8 @@
 <h5 align="left">✨Soy estudiante de Ingeniería en Tecnologías de la Información con formación en el diseño, desarrollo e implementación de soluciones tecnológicas orientadas a resolver necesidades reales de personas y organizaciones.<br><br>📍UNIVERSIDAD POLITECNICA DE GÓMEZ PALACIO.</h5>
 
 ###
+
+<!-- ==================== REDES SOCIALES ==================== -->
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
@@ -178,6 +155,9 @@
 
 
 ###
+
+<!-- ==================== FOOTER ==================== -->
+
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=EAF5FA"  />
