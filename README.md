@@ -58,22 +58,6 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MIGHELL666/MIGHELL666/stats-output/stats.svg" height="155" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/MIGHELL666/MIGHELL666/languages-output/languages.svg" height="155" alt="languages graph"  />
-</div>
-
-###
-
-<div>
-  <img src="https://raw.githubusercontent.com/MIGHELL666/MIGHELL666/stats-output/stats.svg" />
-  <img src="https://raw.githubusercontent.com/MIGHELL666/MIGHELL666/languages-output/languages.svg" />
-</div>
-
-###
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&text=&fontSize=45&fontColor=feb47b&fontAlign=50&fontAlignY=77&stroke=&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
