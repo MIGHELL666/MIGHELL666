@@ -63,26 +63,28 @@ Soy estudiante de Ingeniería en Tecnologías de la Información con formación 
 
 <br><br>
 
+
+<!-- ==================== STATS + LANGUAGES ==================== -->
+
+ <table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-ten-neon-77.vercel.app/api?username=mighell666&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-ten-neon-77.vercel.app/api/top-langs/?username=mighell666&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <div align="center">
-
-  <!-- ==================== STATS + LANGUAGES ==================== -->
-
-  <img width="49%"
-       src="https://github-readme-stats-ten-neon-77.vercel.app/api?username=mighell666&show_icons=true&theme=tokyonight&border=true&include_all_commits=true&count_private=true" />
-
-  <img width="49%"
-       src="https://github-readme-stats-ten-neon-77.vercel.app/api/top-langs/?username=mighell666&layout=compact&theme=tokyonight&border=true&langs_count=10" />
-
-  <br><br>
-
-  <!-- ==================== STREAK ==================== -->
 
   <img width="70%"
        src="https://streak-stats.demolab.com?user=mighell666&theme=tokyonight&hide_border=true" />
 
   <br><br>
-
-  <!-- ==================== ACTIVITY GRAPH ==================== -->
 
   <img width="90%"
        src="https://github-readme-activity-graph.vercel.app/graph?username=mighell666&theme=tokyo-night&hide_border=true" />
