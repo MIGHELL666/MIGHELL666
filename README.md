@@ -67,10 +67,14 @@ Soy estudiante de Ingeniería en Tecnologías de la Información con formación 
 
 <div align="center">
 
-  ![Top Languages](https://vercel.app)
+  ![Mis estadísticas](https://vercel.app)
+  
   ###
+  
   <img src="https://streak-stats.demolab.com?user=MIGHELL666&theme=tokyonight" />
+  
   ###
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MIGHELL666&theme=tokyo-night" />
 
 </div>
