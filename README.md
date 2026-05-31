@@ -165,8 +165,8 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/MIGHELL666/MIGHELL666/stats-output/stats.svg" height="160" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/MIGHELL666/MIGHELL666/languages-output/languages.svg" height="155" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/MIGHELL666/stats-output/stats.svg" height="160" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/MIGHELL666/languages-output/languages.svg" height="155" alt="languages graph"  />
 </div>
 
 ###
