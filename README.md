@@ -1,3 +1,25 @@
+<table>
+<tr>
+<td width="60%">
+
+## SOBRE MI
+
+Tu información aquí...
+
+## TECNOLOGÍAS
+
+Tus tecnologías aquí...
+
+</td>
+<td width="40%">
+
+<img src="TU_GIF" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+
 <!-- ==================== HEADER ==================== -->
 
 <div>
@@ -29,7 +51,6 @@
 <!-- ==================== SOBRE MI ==================== -->
 
 <h2 align="left">SOBRE MI</h2>
-<h2>SOBRE MI</h2>
 
 ###
 
