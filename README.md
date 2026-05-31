@@ -29,12 +29,10 @@
 
 >**📍UNIVERSIDAD POLITECNICA DE GÓMEZ PALACIO.</h5>**
 
-
-
 <!-- ==================== GIF ==================== -->
 
 </td>
-<td width="40%">
+<td width="30%">
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXk0ZHd4cDc4Mm5zdTk4ZTh4am41ZGRqeHJyNnhndW1mejN6cDA5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%"/>
 
