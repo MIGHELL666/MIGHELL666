@@ -67,7 +67,7 @@ Soy estudiante de Ingeniería en Tecnologías de la Información con formación 
 
 <div align="center">
 
-  ![Mis estadísticas](https://vercel.app)
+  [![MIGHELL666 GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   
   ###
   
