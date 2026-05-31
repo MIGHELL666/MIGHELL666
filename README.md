@@ -56,11 +56,19 @@
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
+
 ###
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MIGHELL666&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIGHELL666&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MIGHELL666)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MIGHELL666)
+
 ###
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&text=&fontSize=45&fontColor=feb47b&fontAlign=50&fontAlignY=77&stroke=&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
