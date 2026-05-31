@@ -61,7 +61,7 @@
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=MIGHELL666&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MIGHELL666&theme=tokyonight" />
 
   <br><br>
 
