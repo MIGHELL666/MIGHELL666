@@ -66,7 +66,6 @@ Soy estudiante de Ingeniería en Tecnologías de la Información con formación 
 
 <!-- ==================== STATS + LANGUAGES ==================== -->
 
-<div align="left" style="white-space: nowrap;">
 
   <img
     width="48%"
@@ -78,7 +77,6 @@ Soy estudiante de Ingeniería en Tecnologías de la Información con formación 
     src="https://github-readme-stats-ten-neon-77.vercel.app/api/top-langs/?username=mighell666&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
   />
 
-</div>
 
 <br>
 
