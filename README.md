@@ -27,7 +27,7 @@
 
 <br>
 
->**📍UNIVERSIDAD POLITECNICA DE GÓMEZ PALACIO.*
+>**📍UNIVERSIDAD POLITECNICA DE GÓMEZ PALACIO.**
 
 <!-- ==================== GIF ==================== -->
 
