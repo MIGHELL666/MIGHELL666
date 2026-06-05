@@ -1,7 +1,7 @@
 <!-- ==================== HEADER ==================== -->
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=BIENVENID@&fontSize=36&fontColor=feb47b&fontAlign=50&fontAlignY=77&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=EAF5FA"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=EAF5FA" />
 </div>
 
 ###
