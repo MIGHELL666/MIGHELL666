@@ -45,8 +45,15 @@
 <!-- ==================== REDES SOCIALES ==================== -->
 
 <div align="center">
-  <img src="www.linkedin.com/in/mighell666?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  <!-- Enlace a LinkedIn -->
+  <a href="www.linkedin.com/in/mighell666" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
+  </a>
+  
+  <!-- Enlace a Instagram -->
+  <a href="https://www.instagram.com/miguelf546/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo" />
+  </a>
 </div>
 
 <!-- ==================== TECNOLOGIAS ==================== -->
